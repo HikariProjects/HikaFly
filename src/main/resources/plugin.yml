@@ -1,0 +1,19 @@
+name: HikaFly
+main: org.hikarinetwork.hikafly.Main
+description: A simple fly plugin
+author: HikariNetwork
+version: 1.0.0
+api: 1.0.0
+
+commands:
+  fly:
+    description: "Fly command"
+    usage: "/fly [target: optional]"
+
+permissions:
+  hikafly.command.fly:
+    description: "HikaFly command '/fly' permission"
+    default: op
+  hikafly.command.fly.other:
+    description: "HikaFly command '/fly [player]' permission"
+    default: op

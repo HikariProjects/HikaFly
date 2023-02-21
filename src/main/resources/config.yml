@@ -1,0 +1,12 @@
+message-console-usage: "&cYou must be in game to use this command"
+message-target-offline: "&cSelected player currently offline"
+message-not-have-permission: "&cYou don't have permission to use this command"
+
+message-target-fly-enabled: "&e%player% &aenable flying mode to you"
+message-target-fly-disabled: "&e%player% &cdisable flying mode to you"
+
+message-player-fly-enabled: "&aFlight mode enabled"
+message-player-fly-disable: "&cFlight mode disabled"
+
+message-player-fly-enable-target: "&aSuccess enable flight mode to &e%target%"
+message-player-fly-disable-target: "&aSuccess disable flight mode to &e%target%"
